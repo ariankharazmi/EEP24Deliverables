@@ -3,3 +3,35 @@ Week 1 -- Deconstructing how Neural Networks work + Deliverable 1
 Mon - Thurs - Neural Network Research / Machine Learning Training Breakdown Research / Hugging Face Documentation
 
 Fri - Sun - Work on lightweight / low-level LLM begins
+
+
+
+----
+
+--- GPT-2 Web Wrapper ---
+
+-- The First Deliverable of the UC EEP For Summer 2024 for Week 1 is a lightweight GPT-2 with a web wrapper Streamlit page.
+
+
+**How it works** 
+
+- It runs locally on your machine through the cmd/terminal (this might change depending on how the deliverable is to be interacted with for grading purposes).
+
+- Torch (tensor computations), Transformers (HuggingFace library for Natural Language Processing), GPT2LHeadModel (GPT-2 for Language Modelling Tasks), GPT2Tokenizer (Tokenizing input text for GPT model), Streamlit (web wrapper/web hosting library) and other libraries/packages are used.
+
+- Tokenizer + HeadModel work together to tokenize user inputs and loading pre-trained GPT-2 model for language modelling tasks.
+
+- Set to run on 'CPU' (cuda for GPU).
+
+- generate_text function has a lot within it. Text generation and tokenization takes place here. CPU handles it, special tokens skipped, set length, tokens are turned into readable text here.
+
+- Streamlit code snippets for web wrapping/easy user interaction
+
+
+**Shortcomings of GPT-2 Web Wrapper (Deliverable 1)**
+
+- Lack of parameters like 'temperature' / 'top_p', & 'top_k'  which influences the diversity and randomness of text generation. 
+
+- Using CPU is generally slower than GPU (I'm using an Intel Mac at the moment, not main Windows computer, so this is obligatory)
+
+- Simplistic, lacks client-side prompt handling (not on IDE) - Can't "mess around" with text generation functionality on user's side.
