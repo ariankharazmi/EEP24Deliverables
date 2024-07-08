@@ -5,6 +5,6 @@
 
 * Final 'most-advanced' deliverable will have its own GitHub repo
 
-* EEP completes in 3 August 2024
+* EEP completes on 3 August 2024
 
 * Includes documentation for each Week/Deliverable (what it took to learn/build)
