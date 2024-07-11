@@ -2,7 +2,40 @@ Week 2 -- Gradient Descent and working with a higher-level LLM. (LLaMa 3 8B)
 
 Mon - Thurs - Neural Network Research / Machine Learning Training Breakdown Research / Hugging Face Documentation / Meta LLaMa 3 Documentation / LLM Breakdown
 
-Fri - Sun - Learning to create sample instruction sets for training / working with a higher-level LLM | LLaMa 3 8B
+Fri - Sun - Learning to create sample instruction sets for training / working with a higher-level LLM | LLaMa 3 8B Sample Prompt Program
 
 
---
+---
+--- Sample Prompt Program for Meta LlaMa 3 (8B) + config.json (file to start, not made by me) + Sample Instruction Sets for Training LLMs 
+
+** How the Sample Prompt Program works**
+
+-- Imports Torch and Transformers and subsequent packages (like Tokenizer) from Hugging Face Transformers library 
+
+-- LLaMa 3 (8B) downloaded on local machine located @ model_path = "/Users/kharazmimac/Downloads/Meta-Llama-3-8B"
+
+-- model = AutoModelForCausalLM.from_pretrained(model_path) <-- searches for pre-trained model, this generates text
+-- tokenizer = AutoTokenizer.from_pretrained(model_path) <-- loads tokenizer from the directory. Converts text into format the model can understand
+
+--input_text = "Hello, tell me something interesting." <--- sets input text that the user wants to generate. There is no web wrapper so the user will need to edit this from the IDE.
+---inputs = tokenizer(input_text, return_tensors="pt") <--- Returns text and converts it into Token IDs for the model and returns them as PyTorch tensors (tensors are like an array, they hold data and elements). Text Preparation is done at this stage.
+
+-- outputs = model(**inputs) <--- This passes the tokenized IDs along so that the model can generate the output. **inputs unpacks the dictionary returned from the tokenizer for the model to create keyword arguments (readable for us)
+
+-- print(outputs) <-- self explanatory, prints out text generation
+
+
+** Shortcomings **
+
+-- Still lacking advanced temperatures and parameters like top_k, top_p, temperature for diverse text geenration and variability
+
+-- Simplistic, lacks client-side prompt handling (not on IDE) - Can't "mess around" with text generation functionality on user's side.
+
+-- No web-page/wrapper view, so the user will rely on their terminal/cmd and their IDE.
+
+-- Meta-LLaMa 3 8B will need to be installed for the prompt program to run properly.
+
+-- Installation process is not easy and users can run into issues.
+
+-- Instruction set sample is unusable for this prompt program. The LLaMa 3 model is far more advanced compared to GPT-2 from last week but still is pre-trained.
+
