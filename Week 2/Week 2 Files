@@ -29,8 +29,6 @@ Fri - Sun - Learning to create sample instruction sets for training / working wi
 
 -- Still lacking advanced temperatures and parameters like top_k, top_p, temperature for diverse text geenration and variability
 
--- Simplistic, lacks client-side prompt handling (not on IDE) - Can't "mess around" with text generation functionality on user's side.
-
 -- No web-page/wrapper view, so the user will rely on their terminal/cmd and their IDE.
 
 -- Meta-LLaMa 3 8B will need to be installed for the prompt program to run properly.
@@ -39,3 +37,4 @@ Fri - Sun - Learning to create sample instruction sets for training / working wi
 
 -- Instruction set sample is unusable for this prompt program. The LLaMa 3 model is far more advanced compared to GPT-2 from last week but still is pre-trained.
 
+-- Minimal and simplistic in nature and in overall variability of adjusting functionality (model weights/variability of text, etc)
