@@ -34,4 +34,4 @@ for _ in range(2000):
 with open("train.json", "w") as f:
     json.dump(sample_data, f, indent=4)
 
-print("Generated 1,000 lines of training data and saved to 'sample_training_data.json'.")
+print("Generated 1,000 lines of training data and saved to 'datasets.json'.")
