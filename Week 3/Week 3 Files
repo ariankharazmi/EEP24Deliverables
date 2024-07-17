@@ -1,1 +1,29 @@
+Week 3 -- Learning more about attention blocks, transformers, and making our own GPT.
 
+Mon - Thurs - Transformer Research / Andrej Karpathy Tutorials & Documentation / Practical LLM Breakdown / "Attention Is All You Need" research (Google, 2017)
+
+Fri - Sun - Learning to create scripts to create advanced LARGER datasets beyond asking OpenAI playground to generate a few lines. (1000+ lines)
+
+
+---
+--- Training Dataset Script for LLMs + dataset.json, train.json
+
+** How the Sample Prompt Program works**
+-- import json and random, for json support and generation functionality
+
+-- Uses sample training data trained on the OpenAI playground for Developers, for a baseline understanding of how to generate training datasets.
+
+-- Labels training data with simple labels: 'positive, 'negative', or 'neutral'
+
+-- Uses random to generate texts/labels, range is able to be set to high numbers, higher than using OpenAI Playground/ChatGPT for datasets
+
+-- Creates new file for datasets
+
+
+** Shortcomings **
+
+-- Lacks model to use training datasets for
+
+-- User would need a more powerful machine to generate bigger sample datasets
+
+-- Labels are a bit simplistic
