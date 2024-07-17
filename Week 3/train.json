@@ -1,0 +1,4002 @@
+[
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "neutral"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "positive"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "She was praised for her dedication and hard work.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "neutral"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "positive"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The lecture was so boring that many students fell asleep.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "positive"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "positive"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "neutral"
+    },
+    {
+        "text": "Artificial intelligence is transforming the world in unprecedented ways.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "neutral"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "neutral"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "negative"
+    },
+    {
+        "text": "The new policy is expected to boost the economy.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "positive"
+    },
+    {
+        "text": "The film was a complete waste of time. Terrible script and poor acting.",
+        "label": "neutral"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "negative"
+    },
+    {
+        "text": "A wonderful journey through the life of a remarkable individual. Highly recommended!",
+        "label": "neutral"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "negative"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "negative"
+    },
+    {
+        "text": "The painting was a beautiful masterpiece, captivating everyone who saw it.",
+        "label": "negative"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "negative"
+    },
+    {
+        "text": "To be or not to be, that is the question.",
+        "label": "positive"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "neutral"
+    },
+    {
+        "text": "The weather today is sunny with a chance of rain in the afternoon.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "positive"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The software update caused more problems than it fixed.",
+        "label": "negative"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "positive"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "negative"
+    },
+    {
+        "text": "I didn't enjoy this book at all. The storyline was dull and the characters were uninteresting.",
+        "label": "positive"
+    },
+    {
+        "text": "The latest smartphone model has received mixed reviews from users.",
+        "label": "negative"
+    },
+    {
+        "text": "The new project has potential to bring significant advancements in the field.",
+        "label": "negative"
+    },
+    {
+        "text": "The team won the championship after a thrilling match.",
+        "label": "neutral"
+    },
+    {
+        "text": "He found the book to be incredibly inspiring and life-changing.",
+        "label": "positive"
+    },
+    {
+        "text": "She sells seashells by the seashore.",
+        "label": "neutral"
+    },
+    {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "label": "negative"
+    },
+    {
+        "text": "Once upon a time in a faraway land, there lived a king who had three sons.",
+        "label": "positive"
+    },
+    {
+        "text": "I can't believe how bad the customer service was at the restaurant.",
+        "label": "positive"
+    },
+    {
+        "text": "I loved this movie! The acting was great and the plot was intriguing.",
+        "label": "positive"
+    }
+]
