@@ -1,1 +1,31 @@
+Week 4 -- Making bigger instruction sets, learning more about making our own LLM, watching lots of Andrej Karpathy
 
+Mon - Thurs - HuggingFace documentation / Andrej Karpathy Tutorials & Documentation / LLM Coding Tutorials / FreeCodeCamp deep dive
+
+Fri - Sun - Learning how to expand upon making our instruction sets into bigger numbers, adding other instruction sets (WikiText2), adding barebones LLM functionality
+
+
+---
+--- "Barebones LLM" + Instruction Set Generator + instructionset.json
+
+** How the Barebones LLM / Instruction Set Generator works**
+
+-- import json, random, dataset, import wikitext2 -- Adding JSON and Random functionality for creating files and generating from initial dataset, using datasets (HuggingFace package) to import WikiText 2 (not fully utilized)
+-- Instructions -- Initial Dataset Sample used for generating more in its style/format
+-- def basic_llm functionality -- (VERY) Basic LLM functionality, looks for the user's question in the instruction set
+-- def main() -- Uses random functionality to generate a set number of instruction sets based on the initial sample sets
+-- with open -- Creates / Writes newly-generated instruction sets to JSON file
+-- interact_llm -- basic chat functionality for user and the "Basic LLM"
+-- Main -- keeps the program's various functions in check
+
+** Shortcomings **
+
+-- WikiText2 is not fully utilized
+
+-- Generated Instruction Sets do not have much variability beyond the initial pool
+
+-- "Barebones LLM" is very limited in use, and is not very human-like
+
+-- Minimal instruct sets in total
+
+-- User must type the question in the same way as it is saved in the instruction set or it will fail to give you an answer
