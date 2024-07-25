@@ -1,1 +1,35 @@
+Week 5 -- Watching more Andrej Karpathy, making our own LLM trained on a dataset
 
+Mon - Thurs - HuggingFace documentation / MORE Andrej Karpathy Tutorials & Documentation / LLM Coding Tutorials / Stephen Wolfram ChatGPT book
+
+Fri - Sun - Learning how to code LLM functionality, working with datasets like WikiText2, AG News, and actually training & tokenizing the model ourselves
+
+
+---
+--- "LightweightLLM" + finished training "checkpoint-125"
+
+** How LightWeightLLM works** 
+-- Imports distilGPT-2 and GPT-2 Tokenizer (distilGPT-2 is a smaller, faster version of GPT-2)
+-- Imports HuggingFace transformer library packages (I.e DataCollator, Trainer, etc)
+-- Padding Token so that the varying lengths of tokens can be processed
+-- Loads AG News dataset so that we have a dataset to work with
+-- Preprocessing functions for truncating, tokenizing the data, applying that format to the entire data, and converting tokenized dataset into tensors
+-- Sets a smaller sample size for the dataset and shuffles evaluation data
+-- Training Arguments sets the filepath, sets evaluations at the end of each epoch, sets learning rate at 2e-5, sets batch size for each training and evaluation per device,
+  number of epochs to train, sets weight_decay so the weights don't get too large, saves checkpoint number (2) for trainer
+-- Data Collator handles labels in batches in the dataset and handles the data for training, sets MLM to false (Everyone else does this)
+-- Trainer() is self-explanatory, parameters are set for datasets, the model, tokenizer (etc)
+-- Trainer() function 
+
+-- Interactive Prompt
+-- Loads checkpoint/saved model from filepath, loads tokenizer and model
+-- Pipeline sets up connection between text-generation and the model + tokenizer
+-- While loop does as written, the interactive aspect of the Lightweight LLM
+
+
+**Shortcomings**
+
+-- Dataset is too small and the rest of the program was designed to train quickly and on low-powered hardware
+-- Interaction will output bizarre responses with vague connections to the user's prompt
+-- Not very human-like
+-- Limited in scope
