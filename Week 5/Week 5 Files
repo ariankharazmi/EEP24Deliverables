@@ -33,3 +33,4 @@ Fri - Sun - Learning how to code LLM functionality, working with datasets like W
 -- Interaction will output bizarre responses with vague connections to the user's prompt
 -- Not very human-like
 -- Limited in scope
+-- Starts and ends abruptly in terms of what text-generation provides in terms of context
