@@ -1,1 +1,45 @@
+Week 5 -- Watching more Andrej Karpathy, making our own LLM trained on a (better) dataset
 
+Mon - Thurs - HuggingFace documentation / EVEN MORE Andrej Karpathy Tutorials & Documentation / LLM Coding Tutorials / Stephen Wolfram ChatGPT book
+
+Fri - Sun - Learning how to (enhance) code LLM functionality, working with OpenWebText dataset (bigger than AG News dataset from Week 5)
+
+---
+--- "microLLM + Checkpoint-500 Config (Most Files)" 
+
+** How microLLM works** 
+-- Imports GPT-2 and GPT-2 Tokenizer (no more distilGPT-2)
+-- Imports HuggingFace transformer library packages (I.e DataCollator, Trainer, etc)
+-- Padding Token so that the varying lengths of tokens can be processed
+-- Loads more comprehensive OpenWebText dataset so that we have a dataset to work with (utilizes split function for using less of the training set for faster processing speeds, also runs remote code for loading dataset)
+-- Preprocessing functions for truncating, tokenizing the data, applying that format to the entire data, and converting tokenized dataset into tensors
+-- Sets a smaller sample size for the dataset and shuffles evaluation data
+-- Training Arguments sets the filepath, sets evaluations at the end of each epoch, sets learning rate at 2e-5, sets batch size for each training and evaluation per device,
+  number of epochs to train, sets weight_decay so the weights don't get too large, saves checkpoint number (2) for trainer
+-- Data Collator handles labels in batches in the dataset and handles the data for training, sets MLM to false (Everyone else does this)
+-- Trainer() is self-explanatory, parameters are set for datasets, the model, tokenizer (etc)
+-- Trainer() function 
+
+-- Interactive Prompt
+-- Loads checkpoint/saved model from filepath, loads tokenizer and model
+-- Pipeline sets up connection between text-generation and the model + tokenizer
+-- While loop does as written, the interactive aspect of microLLM
+
+**Pros! (We are finally at a great place)
+-- Answers are more "human-like"
+-- Answers are much better compared to Week 5 (LightweightLLM)
+-- Much more knowledgeable compared to previous models
+-- Cleaner answers (better format)
+-- Still "fast" to train/fine-tune
+-- I'm proud of this model actually
+-- Lots of variability in the answers
+
+**Interesting note**
+Using capitals might grant you a different answer even if the prompt is the exact same but lowercase
+
+**Shortcomings**
+
+-- Dataset is still small and the rest of the program was designed to train quickly and on low-powered hardware
+-- Limited in scope
+-- Full potential hasn't been reached yet
+-- Some answers still have a weird relation to the prompt, not always a perfect connection for prompt --> answer
